@@ -1,3 +1,6 @@
 HI,
 
-Just run BestCountries/bestcountryapp.py, and follow the directions to open the app in your browser ^_^
+To run:
+$ cd BestCountries
+$ export FLASK_APP=bestcountryapp.py
+$ python3 -m flask run --port=50xx
